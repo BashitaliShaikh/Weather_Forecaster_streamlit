@@ -19,7 +19,7 @@
 <br/>
 
 # Snaps
-![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/fb4def22-1d8d-4977-8866-a2ca57b96cc3)
+![image]("")
 ![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/3d1a5979-78d6-4de4-9c81-51a0055183e6)
 ![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/a2018010-38ef-4f84-bf0c-a7ce25e3241b)
 ![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/133651f4-872a-486c-9732-62480a7a96ad)
